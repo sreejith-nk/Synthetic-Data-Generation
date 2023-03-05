@@ -4,7 +4,7 @@ The steps used are as follows,
 - We used VAM Deep Learniing model for syntetic data generation.
 - We then trained a lightGBM model on this bigger dataset to make the predictions.
 
-##VAM
+## VAM
 VAM (Variational Autoencoder with Adversarial Learning and Multi-Modality Fusion) is a deep learning model that is designed for multi-modal data generation and fusion tasks. It is based on a variational autoencoder (VAE) architecture, which is a type of generative model that learns to generate new samples from a given distribution.
 
 The VAM model consists of three main components: a VAE, an adversarial learning module, and a multi-modal fusion module.
